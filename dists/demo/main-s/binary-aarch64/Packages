@@ -1,0 +1,18 @@
+Package: hakuneko-desktop
+Version: 6.1.7
+Section: net
+Architecture: aarch64
+Installed-Size: 157508
+Depends: libc6
+Maintainer: Ronny Wegener <wegener.ronny@gmail.com>
+Priority: optional
+Homepage: https://git.io/hakuneko
+Description: Manga Downloader
+ Desktop Client for HakuNeko Web-Application
+Filename: dists/demo/main-s/binary-aarch64/neko.deb
+Size: 43202108
+MD5Sum: 78824673e01859838f8615f4e08dccc9
+SHA1: be4227386d9f1af3745b2c83884cb0b95f7e06a8
+SHA256: 5c87144d000b0650877eb0637a642115a29b188d8ae66873de8c87f4fd4497ee
+SHA512: 60fc36aa53de989eab751c2e74e9376b77bc96fef34d338ea1fb66f4e8bec7b6b2ac7c58b465daa3a407b3eb5f7b3656174f9feef385a33b6913041b9843517a
+
